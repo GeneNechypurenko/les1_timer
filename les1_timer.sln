@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "les1_timer", "les1_timer\les1_timer.csproj", "{C5EFD81B-AAFD-4188-B414-E490FB88F9DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "les1_weekday_by_date", "les1_weekday_by_date\les1_weekday_by_date.csproj", "{045C798C-DC59-416E-9348-7EFE65AB9F05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C5EFD81B-AAFD-4188-B414-E490FB88F9DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5EFD81B-AAFD-4188-B414-E490FB88F9DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5EFD81B-AAFD-4188-B414-E490FB88F9DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{045C798C-DC59-416E-9348-7EFE65AB9F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{045C798C-DC59-416E-9348-7EFE65AB9F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{045C798C-DC59-416E-9348-7EFE65AB9F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{045C798C-DC59-416E-9348-7EFE65AB9F05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
